@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\Algorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C424007-17E4-4A86-B24E-F3808ED64B9A}|3.InsertionSort\\3.InsertionSort.vcxproj|C:\\Workspace\\Algorithm\\3.InsertionSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C424007-17E4-4A86-B24E-F3808ED64B9A}|3.InsertionSort\\3.InsertionSort.vcxproj|solutionrelative:3.InsertionSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69859E96-C2B0-41D8-88BF-D29F30A14EDB}|2.SelectionSort\\2.SelectionSort.vcxproj|C:\\Workspace\\Algorithm\\2.SelectionSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69859E96-C2B0-41D8-88BF-D29F30A14EDB}|2.SelectionSort\\2.SelectionSort.vcxproj|solutionrelative:2.SelectionSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F76F2E-36E3-4420-AFB9-F3A1637DA393}|1.BubbleSort\\1.BubbleSort.vcxproj|C:\\Workspace\\Algorithm\\1.BubbleSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98F76F2E-36E3-4420-AFB9-F3A1637DA393}|1.BubbleSort\\1.BubbleSort.vcxproj|solutionrelative:1.BubbleSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Workspace\\Algorithm\\3.InsertionSort\\Main.cpp",
+              "RelativeDocumentMoniker": "3.InsertionSort\\Main.cpp",
+              "ToolTip": "C:\\Workspace\\Algorithm\\3.InsertionSort\\Main.cpp",
+              "RelativeToolTip": "3.InsertionSort\\Main.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-10T00:53:26.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Workspace\\Algorithm\\2.SelectionSort\\Main.cpp",
+              "RelativeDocumentMoniker": "2.SelectionSort\\Main.cpp",
+              "ToolTip": "C:\\Workspace\\Algorithm\\2.SelectionSort\\Main.cpp",
+              "RelativeToolTip": "2.SelectionSort\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-06T07:37:53.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Workspace\\Algorithm\\1.BubbleSort\\Main.cpp",
+              "RelativeDocumentMoniker": "1.BubbleSort\\Main.cpp",
+              "ToolTip": "C:\\Workspace\\Algorithm\\1.BubbleSort\\Main.cpp",
+              "RelativeToolTip": "1.BubbleSort\\Main.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-06T07:10:40.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
